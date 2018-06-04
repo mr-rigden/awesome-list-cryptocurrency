@@ -17,6 +17,8 @@
 # Media
 
 ## Blogs
+[Ideal attribution](https://creativecommons.org/use-remix/get-permission/) format:
+["Rigden's Awesome Cryptocurrency List](https://github.com/jrigden/awesome-list-cryptocurrency)" by [Jason Rigden](https://jasonrigden.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Books
 
@@ -27,8 +29,15 @@
 
 
 
-# License
+# Copyright and Usage License
+© 2018 Jason Rigden
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) 
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[Ideal attribution](https://creativecommons.org/use-remix/get-permission/) format:
+
+["Rigden's Awesome Cryptocurrency List](https://github.com/jrigden/awesome-list-cryptocurrency)" by [Jason Rigden](https://jasonrigden.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+
