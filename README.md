@@ -3,7 +3,7 @@
 
 **Contributions welcome!** 
 
-Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emailing him at jasonrigden@jasonrigden.com, or read the [contribution guidelines](contributing.md) to do a PR. Suggestion on link organization would also be appreciated.
+Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emailing him at jasonrigden@jasonrigden.com, or read the [contribution guidelines](contributing.md) to do a PR. Suggestions on link organization would also be appreciated.
 
 
 
