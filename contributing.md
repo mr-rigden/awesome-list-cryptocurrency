@@ -3,10 +3,11 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Email
-You can email Jason Rigden at jasonrigden@jasonrigden.com to request that Jason include a list.
+## Adding Items with an Email
 
-## Adding to this list with a pull request
+You can email Jason Rigden at jasonrigden@jasonrigden.com to request an item to be im include a list.
+
+## Adding to this List with a Pull Request
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -25,3 +26,7 @@ Please ensure your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+
+## Report Issues
+
+If you find broken links, report them with an open issue.
