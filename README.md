@@ -9,14 +9,23 @@
 
 - [Media](#media)
 	- [Blogs](#blogs)
-	- [Media](#media)
-	- [Media](#media)
+	- [Books](#books)
+	- [Newletters](#newsletters)
+	- [Podcasts](#podcasts)
+	- [Videos](#videos)
 
 # Media
-stuff
 
 ## Blogs
-ss
+
+## Books
+
+## Podcasts
+[For a complete list of cryptocurrency podcasts, see this page on Jason Rigden's Blog.](https://jasonrigden.com/posts/list_of_cryptocurrency_podcasts/)
+
+## Videos
+
+
 
 
 
