@@ -47,7 +47,7 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 
 # Disclaimer
 
-Despite what you may have heard elsewhere on the internet, a thing's level of inherent awesomeness is completely subjective. This project will use the subjective perspective of Jason Rigden. He will be of awesome. Readers of this list may find themselves in disagreement with Mr. Rigden. This is to be expected and is a natural by product of this process. 
+Despite what you may have heard elsewhere on the internet, a thing's level of inherent awesomeness is completely subjective. This project will use the subjective perspective of Jason Rigden. He will serve as this list's arbiter of awesome. Readers of this list may find themselves in disagreement with Mr. Rigden. This is to be expected and is a natural by product of this process. Turn off the computer, go outside, and your symptoms should disappear in a few hours. If symptoms continue to persist, contact a mental heath care professional immediately. You may be suffering from an unrelated but serious personality disorder.
 
 # Copyright and Free Culture License
 © 2018 Jason Rigden
