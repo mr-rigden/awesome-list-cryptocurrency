@@ -1,5 +1,5 @@
 # Rigden's Awesome Cryptocurrency List 
-> This is a collection of the most awesome<sup>[*](#blogs)</sup> links about cryptocurrency on the internet. Why does the world need yet another blockchain and cyrptocurrency list? Because all the other list are currently unmaintained. Most have not been updated in four to six months. This is an eternity in such a fast moving industry.  [Jason Rigden](https://twitter.com/mr_rigden) manages and updates this awesome list weekly. 
+> This is a collection of the most awesome<sup>[*](#disclaimer)</sup> links about cryptocurrency on the internet. Why does the world need yet another blockchain and cyrptocurrency list? Because all the other list are currently unmaintained. Most have not been updated in four to six months. This is an eternity in such a fast moving industry.  [Jason Rigden](https://twitter.com/mr_rigden) manages and updates this awesome list weekly. 
 
 **Contributions welcome!** 
 
