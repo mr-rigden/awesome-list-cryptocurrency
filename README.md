@@ -26,7 +26,13 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 
 ## Books
 
-[Applied Cryptography: Protocols, Algorithms and Source Code in C](https://amzn.to/2JugKy9) - This book is not about cryptocurrency. It is about the fundamental tech that make cryptocurrencies work, cryptography. Written by the legendary cryptographer Bruce Schneier. This book is considered a classic.
+[Applied Cryptography: Protocols, Algorithms and Source Code in C](https://amzn.to/2JugKy9) - This book is not about cryptocurrecies but it does cover many of it's fundamental technologies.
+
+[The Internet of Money](https://amzn.to/2LZ8TXZ) - Andreas M. Antonopoulos  explains the why of Bitcoin. Good for beginners.
+
+[The Internet of Money: Volume Two](https://amzn.to/2kM08E3) - A great collection of talks from Andreas M. Antonopoulos. A great companion to the original with a variety of topics.
+
+[Mastering Bitcoin: Programming the Open Blockchain](https://amzn.to/2LXMryl) - Andreas M. Antonopoulos' must read book about Bitcoin. Everyone interested in cryptocurrecies needs this book. It's kind of a big deal.
 
 
 ## Courses
