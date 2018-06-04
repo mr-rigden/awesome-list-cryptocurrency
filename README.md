@@ -1,16 +1,13 @@
 # Rigden's Awesome Cryptocurrency List 
 > Seems like most the awesome list for the blockchain and cyrptocurrency
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg)
 
+![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg) 
 
+![](https://img.shields.io/github/stars/jrigden/awesome-list-cryptocurrency.svg?style=social&label=Stars)
 
-![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)
-
-
-![enter image description here](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg) ![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)
 
 
 ## Contents
