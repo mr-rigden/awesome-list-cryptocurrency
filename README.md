@@ -4,32 +4,20 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg) [![GitHub stars](https://img.shields.io/github/stars/jrigden/awesome-list-cryptocurrency.svg)](https://github.com/jrigden/awesome-list-cryptocurrency/stargazers)
 
-(https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)
-(https://img.shields.io/github/stars/jrigden/awesome-list-cryptocurrency.svg)](https://github.com/jrigden/awesome-list-cryptocurrency/stargazers)
-(https://img.shields.io/github/jrigden/awesome-list-cryptocurrency/shields.svg?style=social&label=Watch)
-
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Media](#media)
+	- [Blogs](#blogs)
+	- [Media](#media)
+	- [Media](#media)
 
+## Media
+stuff
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Blogs
+ss
 
 
 ## Contribute
