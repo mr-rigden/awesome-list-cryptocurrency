@@ -5,19 +5,19 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg) [![GitHub stars](https://img.shields.io/github/stars/jrigden/awesome-list-cryptocurrency.svg)](https://github.com/jrigden/awesome-list-cryptocurrency/stargazers)
 
 
-
-## Contents
+# Contents
 
 - [Media](#media)
 	- [Blogs](#blogs)
 	- [Media](#media)
 	- [Media](#media)
 
-## Media
+# Media
 stuff
 
-### Blogs
+## Blogs
 ss
+
 
 
 ## Contribute
