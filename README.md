@@ -1,5 +1,5 @@
 # Rigden's Awesome Cryptocurrency List 
-> Seems like most the awesome list for the blockchain and cyrptocurrency
+> This is a collection of the most awesome links about cryptocurrency on the internet. Why does the world need yet another blockchain and cyrptocurrency list? Because all the other list are currently unmaintained. Most have not been updated in four to six months. This is an eternity in such a fast moving industry. Jason Rigden manages and updates this awesome list weekly. Contributions welcome! Submit a link by emailing it to jasonrigden@jasonrigden.com or read the [contribution guidelines](contributing.md) 
 
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg) [![GitHub stars](https://img.shields.io/github/stars/jrigden/awesome-list-cryptocurrency.svg)](https://github.com/jrigden/awesome-list-cryptocurrency/stargazers)
