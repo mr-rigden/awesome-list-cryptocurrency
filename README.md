@@ -1,33 +1,50 @@
 # Rigden's Awesome Cryptocurrency List 
-> This is a collection of the most awesome links about cryptocurrency on the internet. Why does the world need yet another blockchain and cyrptocurrency list? Because all the other list are currently unmaintained. Most have not been updated in four to six months. This is an eternity in such a fast moving industry. Jason Rigden manages and updates this awesome list weekly. Contributions welcome! Submit a link by emailing it to jasonrigden@jasonrigden.com or read the [contribution guidelines](contributing.md) 
+> This is a collection of the most awesome<sup>[*](#blogs)</sup> links about cryptocurrency on the internet. Why does the world need yet another blockchain and cyrptocurrency list? Because all the other list are currently unmaintained. Most have not been updated in four to six months. This is an eternity in such a fast moving industry.  [Jason Rigden](https://twitter.com/mr_rigden) manages and updates this awesome list weekly. 
 
+**Contributions welcome!** 
+Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emailing him at jasonrigden@jasonrigden.com or read the [contribution guidelines](contributing.md) to do a PR. Suggestion on link organization would also be appreciated.
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/jrigden/awesome-list-cryptocurrency.svg) [![GitHub stars](https://img.shields.io/github/stars/jrigden/awesome-list-cryptocurrency.svg)](https://github.com/jrigden/awesome-list-cryptocurrency/stargazers)
 
 
 # Contents
+- [Blogs](#blogs)
+- [Books](#books)
+- [Courses](#courses)
+- [Glossaries](#glossaries)
+- [Humor](#humor)
+- [Infographics](#infographics)
+- [Memes](#memes)
+- [Newletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Real Time Stats](#real-time-stats)
+- [Twitter](#twitter)
+- [Videos](#videos)
 
-- [Media](#media)
-	- [Blogs](#blogs)
-	- [Books](#books)
-	- [Newletters](#newsletters)
-	- [Podcasts](#podcasts)
-	- [Videos](#videos)
-
-# Media
 
 ## Blogs
-[Ideal attribution](https://creativecommons.org/use-remix/get-permission/) format:
-["Rigden's Awesome Cryptocurrency List](https://github.com/jrigden/awesome-list-cryptocurrency)" by [Jason Rigden](https://jasonrigden.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Books
 
+## Courses
+
+## Glossaries
+
+## Humor
+
+## Infographics
+
+## Memes
+
 ## Podcasts
-[For a complete list of cryptocurrency podcasts, see this page on Jason Rigden's Blog.](https://jasonrigden.com/posts/list_of_cryptocurrency_podcasts/)
+*[For a complete list of cryptocurrency podcasts, see this page on Jason Rigden's Blog.](https://jasonrigden.com/posts/list_of_cryptocurrency_podcasts/)*
+
+## Real Time Stats
+
+## Twitter
 
 ## Videos
 
-
+# Disclaimer
 
 # Copyright and Free Culture License
 © 2018 Jason Rigden
