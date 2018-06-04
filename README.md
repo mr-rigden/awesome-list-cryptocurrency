@@ -27,14 +27,7 @@
 
 
 
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
+# License
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) 
 
