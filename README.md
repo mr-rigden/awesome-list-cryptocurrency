@@ -46,7 +46,26 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 ## Memes
 
 ## Podcasts
-*[For a complete list of cryptocurrency podcasts, see this page on Jason Rigden's Blog.](https://jasonrigden.com/posts/list_of_cryptocurrency_podcasts/)*
+*[For a complete list of cryptocurrency podcasts, see this page on Jason Rigden's Blog.](https://jasonrigden.com/posts/list_of_cryptocurrency_podcasts/)
+Podcasters, [DM](https://twitter.com/mr_rigden) me your show link and I'll write a review of it.*
+
+[Block Zero](http://www.blockzero.show/) - Legendary entrepreneur, venture capitalist, and podcaster Kevin Rose interviews cryptocurrency makers and experts.
+
+[Blockchain Inside](http://bi.11fs.com/) - A weekly podcast hosted by Simon Taylor and Colin Platt.
+
+[CRYPTO 101](https://crypto101podcast.com) - A podcast guide to cryptocurrency. Both topical and interview episodes. Hosted by Matthew Aaron.
+
+[Daily Crypto](https://dailycrypto.io/) - A daily podcast of cryptocurrency news.
+
+[Epicenter](https://epicenter.tv/) -  A weekly show interviewing the top people in the industry. Hosted by Brian Fabian Crain and Sébastien Couture.
+
+[Explaining Cryptocurrency](https://jasonrigden.com/categories/explaining-cryptocurrency/) - A shameless link to Jason Rigden's podcast. A short format podcast that explains how cryptocurrency and the blockchain work.
+
+[ICO 101](http://ico101podcast.com/) - A podcast guide to ICOs. Usually interview episodes. Hosted by Aaron Paul.
+
+[Unchained](http://unchainedpodcast.co/) - Laura Shin interviews with leaders in the blockchain and cryptocurrency industry. She is does great interviews. Probably the best cryptocurrency podcast in production right now. Totally awesome.
+
+[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency/) - Yet another absolutely shameless attempt to promote another podcast from Jason Rigden. This podcast is series of interviews with the people making the cryptocurrency and blockchain revolution happen. Be guest on the show by visiting the [guests page](https://jasonrigden.com/guests).
 
 ## Real Time Stats
 
