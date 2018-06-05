@@ -37,6 +37,12 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 
 ## Courses
 
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+
+[IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+
+[Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
+
 ## Glossaries
 
 ## Humor
