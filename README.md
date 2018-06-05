@@ -19,7 +19,7 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 - [Podcasts](#podcasts)
 - [Real Time Stats](#real-time-stats)
 - [Twitter](#twitter)
-- [Videos](#videos)
+- [YouTube](#youtube)
 
 
 ## Blogs
@@ -71,7 +71,33 @@ Podcasters, [DM](https://twitter.com/mr_rigden) me your show link and I'll write
 
 ## Twitter
 
-## Videos
+## YouTube
+
+[aantonop](https://www.youtube.com/user/aantonop) - The YouTube channel of the hugely influential Andreas M. Antonopoulos. Videos of Q&As and conference talks.
+
+[Blockchain at Berkeley](https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg) 
+
+[Cointelegraph](https://www.youtube.com/user/cointelegraph/)
+
+[Computerphile](https://www.youtube.com/user/Computerphile) - Only occasionally has blockchain content. Very good though. If you are into cryptography, you'll like this.
+
+[Crypt0](https://www.youtube.com/channel/UCdUSSt-IEUg2eq46rD7lu_g) 
+
+[Crypto Tips](https://www.youtube.com/channel/UCavTvSwEoRABvnPtLg0e6LQ)
+
+[The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw/)
+
+[Doug Polk Crypto](https://www.youtube.com/channel/UC4sS8q8E5ayyghbhiPon4uw) - A no BS take on crypto. He often calls out the shills and charlatans. We need more of this guy.
+
+[Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/videos) 
+
+[Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
+
+[Ivan on Tech](https://www.youtube.com/channel/UCrYmtJBtLdtm2ov84ulV-yg)
+
+[Numberphile](https://www.youtube.com/user/numberphile) - Not actually a cryptocurrency channel. But the content often has a relationship with cryptocurrency.
+
+[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - Some excellent cryptocurrency and blockchain content. They also have great videos about AI.
 
 # Disclaimer
 
