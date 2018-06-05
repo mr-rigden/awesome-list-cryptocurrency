@@ -8,16 +8,11 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 
 
 # Contents
-- [Blogs](#blogs)
 - [Books](#books)
 - [Courses](#courses)
-- [Glossaries](#glossaries)
 - [Humor](#humor)
-- [Infographics](#infographics)
-- [Newletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Real Time Stats](#real-time-stats)
-- [Twitter](#twitter)
 - [YouTube](#youtube)
 
 
