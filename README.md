@@ -14,7 +14,6 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 - [Glossaries](#glossaries)
 - [Humor](#humor)
 - [Infographics](#infographics)
-- [Memes](#memes)
 - [Newletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Real Time Stats](#real-time-stats)
@@ -47,9 +46,9 @@ Submit a link by DMing Jason on [Twitter](https://twitter.com/mr_rigden), emaili
 
 ## Humor
 
-## Infographics
+[Bitcoin - Ultra Spiritual Life](https://www.youtube.com/watch?v=g-zIbVEjVpQ) - JP Sears is a genius and this episode is definitely awesome. 
 
-## Memes
+## Infographics
 
 ## Podcasts
 *[For a complete list of cryptocurrency podcasts, see this page on Jason Rigden's Blog.](https://jasonrigden.com/posts/list_of_cryptocurrency_podcasts/)
