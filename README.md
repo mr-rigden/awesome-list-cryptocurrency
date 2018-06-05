@@ -74,6 +74,10 @@ Podcasters, [DM](https://twitter.com/mr_rigden) me your show link and I'll write
 
 ## Real Time Stats
 
+[cryptowatch](https://cryptowatch.de/) - See the price of multiple tokens on multiple exchanges.
+
+[ethstats](https://ethstats.net/) - A very slick dashboard for monitoring Etherium.
+
 ## Twitter
 
 ## YouTube
